@@ -1,0 +1,22 @@
+"use strict"; // treat all js as newer version
+//alert("yash") // we are using the nodejs,not browser
+
+
+console.log(3+
+    3
+) // it is not a good prctice it decreses the redability
+
+let name="yash"
+let number=9;
+let isloggedin=false
+
+// number= 2^53
+//bigint
+// string=""
+// bool = true/false
+// null =>standalone value
+// undefined=>
+    // symbol=> to show the uniqeness
+console.log(typeof name);
+console.log(typeof null) // itgives object as a answer
+console.log(typeof undefined) // ans undefined
