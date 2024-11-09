@@ -33,8 +33,6 @@ console.log(url.replace('%20', '-'))
 console.log(url.includes('sundar'))
 
 console.log(gameName.split('-'));
-const name="yashgoyal";
-const newstring=name.slice(0,4);
-console.log(newstring);
+
 
 
