@@ -11,8 +11,7 @@ console.log(typeof bignumber);  /// bigint
 
 
 
-// 2. non-primitive(reference datatype) = object,function,array
- 
+// 2. non-primitive(reference datatype) = object,function,array 
 const heros=["shaktiman","gogo","chotabheam"];
 console.log(typeof heros);
 // OBJECT RETURN TYPE IS VARIABLE
