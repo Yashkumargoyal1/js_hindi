@@ -2,7 +2,7 @@ const name = "hitesh"
 const repoCount = 50
 
 // console.log(name + repoCount + " Value");
-
+// we use the cncept of string interpolation  and this symmbol(``)is bectics
 console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
 
 const gameName = new String('hitesh-hc-com')
